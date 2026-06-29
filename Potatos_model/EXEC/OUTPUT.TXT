@@ -1,0 +1,75 @@
+
+The variables used in the 'n' DAY OUTPUT have the following meaning:
+
+CROP DATA
+DAY= day number (1= January 1); 
+WTUB= weight of tubers (kg DM/ha);  
+TAGB= weight of total above-ground biomass inclusive tubers (kg DM/ha); 
+RDRY= reduction photosynthesis by water stress (-); 
+SMACT= actual soil moisture content (cm3/cm3);
+TRAIN= total precipitation (mm); 
+TIRR=  total irrigation (mm);
+TTRANS= total transpiration (mm); 
+TESOIL= total soil evaporation (mm); 
+TDRAIN= total water loss by drainage below maximum root zone (mm); 
+TRUNOF= total water loss by runoff (mm);
+WTOT= total amount of water in maximum root zone (mm); 
+WAVT= total amount of water available in maximum root zone (mm); 
+PARAB= total intercepted PAR (MJ/m2); 
+PAR= total incoming PAR (MJ/m2)
+
+
+
+The variables used in the SUMMARY OUTPUT and the YIELD STATISTICS have the
+following meaning:
+
+Year= year number; 
+PL= date of planting; 
+EMERG= date of emergence; 
+TUBI= date of tuber initiation; 
+HALT= date of harvest or maturity (leaves dead); 
+WTU= weight of tubers (kg DM/ha); 
+TAGB= total above-ground biomass inclusive tubers (kg DM/ha); 
+HI= harvest index (kg tubers / kg above-ground biomass incl. tubers); 
+PARAB= total intercepted PAR (MJ/m2);
+RUE= radiation use efficiency (g DM (total above ground biomass) / MJ 
+    intercepted PAR );
+DWAV= change in water available in maximum root zone (mm);
+RAIN= total precipitation (mm);
+ESOIL= total soil evaporation (mm);
+TRANS= total crop transpiration (mm);
+DRAIN= total loss of water by drainage below maximum root zone (mm); 
+RUNOF= total loss of water by surface runoff (mm);
+IRR= total irrigation (mm);
+WUE= water use efficiency (g DM total above ground / kg water lost by 
+    evaporation and transpiration)
+
+
+
+The variables used in the BATCH INPUT file have the
+following meaning:
+
+RUNNAME= name of run in output files (max. 5 characters);
+IYEAR= first year of run;
+INYEAR= number of years;
+IDPL= date of planting;
+IDEM= date of emergence;
+IFINIT= maximum number of days for single run (d);
+STATR= weather station name (max. 5 characters);
+SENSP= multiplied with rainfall data for sensitivity analysis;
+SENSV= multiplied with vapour pr. data for   ,,        ,,    ;
+SENSW= multiplied with windspeed data  for   ,,        ,,    ;
+SENSR= multiplied with radiation data  for   ,,        ,,    ;
+SENST= added to temperature data       for   ,,        ,, 
+             (inclusive vapour pressure correction); 
+CO= atmospheric CO2 concentration (ppmv);
+ISOIL= number of soil data file (1 --> SOILP1.DAT; 2 --> SOILP2.dat);
+ICROP= number of crop data file (1 --> CROPP1.DAT; 2 --> CROPP2.DAT);
+IOPT= indicates type of weather data file (1--> CALL WEATHR (i.e. 
+       AB weather data format, e.g. in file WAGE80.DAT), 
+       not 1 --> CALL DBMRD (binary data sets)); 
+IRRI= 0 (no irrigation) or 1 (irrigation);
+IOUT= time interval for output (d);
+WTRDIR= directory where weather data are stored;
+REMARK= remark, printed on top of output file;
+CONTIN= run for new site or years (Y or N)

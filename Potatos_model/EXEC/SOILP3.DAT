@@ -1,0 +1,25 @@
+**
+** SOIL DATA FILE for use with POTATOS, May 1996
+**
+** Medium fine
+
+** physical soil characteristics 
+
+** volumetric soil moisture 
+SMW      =   0.100  !  soil moisture content at wilting point (pF= 4.2) [cm3/cm3]
+SMFC     =   0.200  !  soil moisture content at field capacity (pF= 2.3) [cm3/cm3]
+SM0      =   0.450  !  soil moisture content at saturation [cm3/cm3]
+SMI      =   0.200  !  initial soil moisture content at planting or emergence[cm3/cm3]
+
+* maximum effective rooting depth
+RDMCR    =   50.  !  maximum rooting depth for potato crop [cm]
+RDMSO    =  150.  !  maximum rooting depth determined by soil structure and layers [cm]
+
+* surface runoff fraction
+RUNFR    =   0.0 ! average fraction of precipitation lost by runoff
+
+* crop-specific correction factor of potential transpiration
+CFET= 1.15
+
+* correction factor of time course of soil evaporation (between 1 and about 4)
+CFEV= 2.0

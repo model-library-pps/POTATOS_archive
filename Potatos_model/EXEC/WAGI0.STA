@@ -1,0 +1,76 @@
+
+
+
+*** RESULTS OF CROP GROWTH MODEL POTATOS *** SUMMARY OF OUTPUT FOR POTATO AND YIELD STATISTICS ***
+
+Name of run: WAGI0, Station= WAGE , Soil=   2, Crop=   1, Irr.=   1, Runof= 0.00, CO2= 355.
+ Wageningen, irrig., 15 cm soilw., mid var., RUE=2.5                             
+
+
+YEAR    PL   EMERG TUBI  HALT    WTU   TAGB     HI  PARAB  RUE   DWAV RAIN  ESOIL   TRANS DRAIN RUNOF   IRR  WUE 
+1971   105   137   153   239   16260. 19464. 0.84  666.  2.92   53.  275.   82.   291.   25.    0.   70.  5.22
+
+ MEANS over   1 years  :
+       105.  137.  153.  239.  16260. 19464. 0.84  666.  2.92   53.  275.   82.   291.   25.    0.   70.  5.22
+ STANDARD DEVIATIONS  :
+         0.    0.    0.    0.      0.     0. 0.00    0.  0.00    0.    0.    0.     0.    0.    0.    0.  0.00
+ VARIATION COEFFICIENTS (%)  : 
+        0.0   0.0   0.0   0.0     0.0    0.0  0.0   0.0   0.0   0.0   0.0   0.0    0.0   0.0   0.0   0.0   0.0
+
+
+
+*** RESULTS OF CROP GROWTH MODEL POTATOS *** SUMMARY OF OUTPUT FOR POTATO AND YIELD STATISTICS ***
+
+Name of run: WAGI1, Station= WAGE , Soil=   2, Crop=   1, Irr.=   1, Runof= 0.00, CO2= 355.
+ Wageningen, irrig., 15 cm soilw., mid var., RUE=2.5                             
+
+
+YEAR    PL   EMERG TUBI  HALT    WTU   TAGB     HI  PARAB  RUE   DWAV RAIN  ESOIL   TRANS DRAIN RUNOF   IRR  WUE 
+1971   105   137   153   239   16260. 19464. 0.84  666.  2.92   53.  275.   82.   291.   25.    0.   70.  5.22
+
+ MEANS over   1 years  :
+       105.  137.  153.  239.  16260. 19464. 0.84  666.  2.92   53.  275.   82.   291.   25.    0.   70.  5.22
+ STANDARD DEVIATIONS  :
+         0.    0.    0.    0.      0.     0. 0.00    0.  0.00    0.    0.    0.     0.    0.    0.    0.  0.00
+ VARIATION COEFFICIENTS (%)  : 
+        0.0   0.0   0.0   0.0     0.0    0.0  0.0   0.0   0.0   0.0   0.0   0.0    0.0   0.0   0.0   0.0   0.0
+
+
+
+*** RESULTS OF CROP GROWTH MODEL POTATOS *** SUMMARY OF OUTPUT FOR POTATO AND YIELD STATISTICS ***
+
+Name of run: WAGW1, Station= WAGE , Soil=   2, Crop=   2, Irr.=   0, Runof= 0.00, CO2= 355.
+ Wageningen, not-irrig., 15 cm soilw., mid var., RUE=3.0                         
+
+
+YEAR    PL   EMERG TUBI  HALT    WTU   TAGB     HI  PARAB  RUE   DWAV RAIN  ESOIL   TRANS DRAIN RUNOF   IRR  WUE 
+1971   105   137   160   260   17532. 21242. 0.83  786.  2.70  125.  285.   71.   314.   25.    0.    0.  5.52
+
+ MEANS over   1 years  :
+       105.  137.  160.  260.  17532. 21242. 0.83  786.  2.70  125.  285.   71.   314.   25.    0.    0.  5.52
+ STANDARD DEVIATIONS  :
+         0.    0.    0.    0.      0.     0. 0.00    0.  0.00    0.    0.    0.     0.    0.    0.    0.  0.00
+ VARIATION COEFFICIENTS (%)  : 
+        0.0   0.0   0.0   0.0     0.0    0.0  0.0   0.0   0.0   0.0   0.0   0.0    0.0   0.0   0.0   0.0   0.0
+
+
+
+*** RESULTS OF CROP GROWTH MODEL POTATOS *** SUMMARY OF OUTPUT FOR POTATO AND YIELD STATISTICS ***
+
+Name of run: BOLW1, Station= BOLO , Soil=   2, Crop=   2, Irr.=   0, Runof= 0.00, CO2= 355.
+ Bologna, not-irrig., 15 cm soilw., mid var., RUE=3.0                            
+
+
+YEAR    PL   EMERG TUBI  HALT    WTU   TAGB     HI  PARAB  RUE   DWAV RAIN  ESOIL   TRANS DRAIN RUNOF   IRR  WUE 
+1971   105   127   151   214    6376. 10790. 0.59  923.  1.17  148.   71.   66.   153.    0.    0.    0.  4.92
+1972   105   132   156   221    6957. 11407. 0.61  810.  1.41  106.  257.   84.   183.   96.    0.    0.  4.27
+1973   105   130   156   215    6881. 12719. 0.54  798.  1.59  129.  173.   67.   223.   12.    0.    0.  4.38
+1974   105   132   158   218    6992. 12236. 0.57  824.  1.48  141.  172.   73.   201.   39.    0.    0.  4.46
+1975   105   128   154   215    8961. 15752. 0.57  862.  1.83  148.  178.   63.   256.    7.    0.    0.  4.94
+
+ MEANS over   5 years  :
+       105.  130.  155.  217.   7233. 12581. 0.58  844.  1.50  134.  170.   71.   203.   31.    0.    0.  4.60
+ STANDARD DEVIATIONS  :
+         0.    2.    2.    3.    892.  1720. 0.02   45.  0.22   16.   59.    8.    35.   35.    0.    0.  0.28
+ VARIATION COEFFICIENTS (%)  : 
+        0.0   1.6   1.5   1.2    12.3   13.7  4.0   5.4  14.5  11.8  34.7  10.6   17.2 115.0   0.0   0.0   6.1

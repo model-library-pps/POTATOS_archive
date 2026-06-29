@@ -1,0 +1,56 @@
+** 
+** CROP DATA FILE for use with POTATOS, May 1996
+** data set , Late variety as based on Varseveld trials (see Boons et al., 1993) 
+
+** initial
+TAGBI= 60.          ! initial total (above ground) crop dry weight at emergence (kg/ha)
+
+** light interception
+FINT0 = 0.0139     ! initial light interception capacity per plant (m2/plant)
+R0    = 0.0250     ! initial relative growth rate of light interception capacity (C-1 d-1)
+DURE  = 325.       ! duration of phase of decreasing light interception (C d)
+TS50  = 1705.      ! temperature sum required till 50% reduction of light interception (C d);
+                   ! temperature sum may vary from 1100 (very early var.) to 1800 C d (very late variety)
+                   ! (Spitters, 1990).
+
+** harvest Index
+HIM   = 0.88      ! asymptotic maximum of harvest index
+HISLP = 0.0018    ! initial slope of the harvest index curve (may vary from 0.0015 (very late) to 0.0045 (very early var.; Spitters, 1990)
+STTUB = 300.      ! start of tuber filling indicated by temperature sum (C d); may vary from 130 (very early) to 320 C d (very late var.; Spitters, 1990)
+
+DMSO  = 0.21       ! dry matter content of storage organs (tubers)  (-)
+TBASE = 2.         ! base temperature of temperature sums for potato (C)
+
+ 
+** light use efficiency for biomass production as function of temperature sum since emergence
+**  (ageing effect of leaves)
+LUETB  =    0., 3.00,     ! (g DM/MJ)
+         1000., 3.00,
+         2000., 3.00 
+
+** reduction of light use efficiency as function of average day temperature (-)
+TMPTB= 0.00,    0.01,
+       2.00,    0.01,
+      10.00,    0.50,
+      16.00,    1.00,
+      24.00,    1.00,
+      30.00,    0.50,
+      35.00,    0.01
+
+** correction of light use efficiency as function of atmospheric CO2 concentration (-)
+COTB=  40., 0.00,
+      355., 1.00,
+      710., 1.20,
+     1000., 1.30,
+     2000., 1.30
+
+** Day length effect on development rate until tuber initiation
+IDAYL= 0               ! 0= no day length effect; 1= day length effect.
+DAYMAX= 20.            ! day length for maximum long day effect (h)
+DAYMIN= 10.            ! day length with no long day effect (h)
+
+** temperature sum required for emergence of 50% of plants (sum above TBASE= 2)
+TSUMEM= 285.
+
+** field parameters
+NPL   = 4.0        ! plant density  (plants/m2)

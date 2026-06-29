@@ -1,0 +1,20 @@
+
+
+
+*** RESULTS OF CROP GROWTH MODEL POTATOS *** SUMMARY OF OUTPUT FOR POTATO AND YIELD STATISTICS ***
+
+Name of run: WAGW1, Station= WAGE , Soil=   2, Crop=   2, Irr.=   0, Runof=  .00, CO2= 355.
+ Wageningen, not-irrig., 15 cm soilw., mid var., RUE=3.0                         
+
+
+YEAR    PL   EMERG TUBI  HALT    WTU   TAGB     HI  PARAB  RUE   DWAV RAIN  ESOIL   TRANS DRAIN RUNOF   IRR  WUE 
+1970   105   137   163   257   16291. 19863.  .82  787.  2.52   93.  296.   73.   300.   16.    0.    0.  5.33
+1971   105   137   160   260   17532. 21242.  .83  786.  2.70  125.  285.   71.   314.   25.    0.    0.  5.52
+1972   105   144   168   275   18717. 22525.  .83  796.  2.83   44.  421.   94.   310.   61.    0.    0.  5.58
+
+ MEANS over   3 years  :
+       105.  139.  164.  264.  17513. 21210.  .83  789.  2.69   87.  334.   79.   308.   34.    0.    0.  5.48
+ STANDARD DEVIATIONS  :
+         0.    3.    3.    8.    991.  1087.  .00    4.   .13   33.   62.   11.     6.   20.    0.    0.   .11
+ VARIATION COEFFICIENTS (%)  : 
+         .0   2.4   2.0   3.0     5.7    5.1   .5    .6   4.7  38.3  18.5  13.4    1.9  57.6    .0    .0   1.9
